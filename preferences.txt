@@ -2,4 +2,4 @@
 <favorit series> Lost
 <favorit food> meat
 <favorit season> summer
-<country you would like to visit> Spain
+<country you would like to visit> Italy
