@@ -1,5 +1,5 @@
-<name>Khasan</name>
-<surname>Bukhurov</surname>
-<age>30</age>
-<nomber of pets>2</nomber of pets>
-<desired salary>3000$</desired salary>
+<name>Khasan
+<surname>Bukhurov
+<age>30
+<nomber of pets>2
+<desired salary>3000$
