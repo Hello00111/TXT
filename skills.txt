@@ -1,1 +1,2 @@
-<on the course we will study> <soft skills> <hard skills>
+<on the course we will study>
+</soft skills> </hard skills>
