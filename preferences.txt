@@ -1,5 +1,5 @@
-<favorit movie> The Book of Eli
-<favorit series> Lost
-<favorit food> meat
-<favorit season> summer
-<country you would like to visit> Italy
+<favorit <movie> The Book of Eli>
+<favorit <series> Lost>
+<favorit <food> meat>
+<favorit <season> summer>
+<country <you would like to visit> Italy>
